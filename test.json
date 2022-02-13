@@ -1,0 +1,47 @@
+[
+    {
+      "question": "What is a Horse?",
+      "alternatives": [
+        "A animal",
+        "A object",
+        "A insect"
+      ],
+      "answer_id": 2,
+      "quiz": "animals_categories",
+      "category": "Animals"
+    },
+    {
+      "question": "What is a Pig?",
+      "alternatives": [
+        "A kassd",
+        "A object",
+        "A insect"
+      ],
+      "answer_id": 1,
+      "quiz": "animals_categories",
+      "category": "Animals"
+    },
+    {
+      "question": "What is a Horse?",
+      "alternatives": [
+        "A animal",
+        "A object",
+        "A insect"
+      ],
+      "answer_id": 2,
+      "quiz": "objects_categories",
+      "category": "Objects"
+    },
+    {
+
+      "question": "What is the max age of a turtle?",
+      "alternatives": [
+        "12 years",
+        "132 years",
+        "28 years"
+      ],
+      "answer_id": 2,
+      "quiz": "animals_max_age",
+      "category": "Animals"
+    }
+  ]
